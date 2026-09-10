@@ -1,9 +1,6 @@
 ## Arman Sra
 
-Account executive who builds his own tools. I sell NetSuite; when the software I need for
-the job doesn't exist, or exists badly, I build it. The repos below are **separate,
-unrelated projects** — different problems, different stacks, different years.
-
+Account executive who builds his own tools. 
 
 ---
 
