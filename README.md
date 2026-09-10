@@ -46,9 +46,10 @@ Apps Script precisely because a web page can't watch Gmail or fire at 8am.
 **Three.js · vanilla JS · single-file HTML** — [live demos](https://armansra-hub.github.io/scroll-case-presentations/)
 
 Two live sales-case interviews where I built the presentation instead of decking it. One is
-a 3D alpine ascent where each analytical beat is a station you climb to; the other is an
-8-bit pixel RPG where the prospect's decision points are literal forks in the trail and the
-route changes with what you choose.
+a 3D alpine descent — the deal from approval email to first draw, each analytical beat a
+station you stop at on the way down. The other is an 8-bit pixel RPG climb where the
+prospect's decision points are literal forks in the trail and the route changes with what
+you choose.
 
 Every word of case copy is verbatim from the source brief, and a Python checker in the repo
 proves it on demand rather than on trust. No build step, no framework — each is one
