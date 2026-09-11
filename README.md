@@ -11,6 +11,8 @@ The largest of these. Stanley watches an entire NetSuite sales territory for ERP
 trigger events and ranks the "call these now" worklist, so prospecting stops being a
 guessing game about *timing*. 
 
+📚 [Codex Automations](https://github.com/armansra-hub/stanley/tree/main/codex-automations) — the full catalog of my automations, custom skills, dashboards, and workflows, with their logic and infrastructure.
+
 ---
 
 ### 📋 [Job-Search Accountability CRM](https://github.com/armansra-hub/job-search-crm) — a CRM that nags you
