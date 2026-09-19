@@ -5,11 +5,15 @@ Account executive who builds his own tools.
 ---
 
 ### 🛰️ [Stanley](https://github.com/armansra-hub/stanley) — territory intelligence for a solo AE
-**Next.js · Supabase · Claude · scheduled agents** — [live](https://jarvis-arman44.vercel.app)
+**Next.js · Supabase · Jev (TypeSafe) · Claude · scheduled agents** — [live](https://jarvis-arman44.vercel.app)
 
 The largest of these. Stanley watches an entire NetSuite sales territory for ERP-readiness
 trigger events and ranks the "call these now" worklist, so prospecting stops being a
 guessing game about *timing*. 
+
+I use **Jev** to interpret company news, websites and hiring evidence, identify sourced
+operating patterns, and rank which research pages to read next. Claude handles chat and
+source-cited account writing. [See where Jev is used and the implementation](https://github.com/armansra-hub/stanley/blob/main/docs/JEV_USAGE.md).
 
 📚 [Codex Automations](https://github.com/armansra-hub/stanley/tree/main/codex-automations) — the full catalog of my automations, custom skills, dashboards, and workflows, with their logic and infrastructure.
 
